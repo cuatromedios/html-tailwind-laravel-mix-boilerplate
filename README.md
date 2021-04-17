@@ -54,9 +54,7 @@ on how to configure `tailwind.config.js` and `webpack.mix.js` files
 
 ## Credits
 
-- [Mark van den Broek](https://github.com/mvdnbrk)
-- [Jeffrey Way](https://github.com/JeffreyWay)
-- [All Contributors](../../contributors)
+- [Ramses Moreno](https://www.ramsesmoreno.com)
 
 ## License
 
