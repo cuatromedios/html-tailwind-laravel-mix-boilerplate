@@ -13,7 +13,7 @@ This project uses:
 
 Please refer to the documentation of these projects to get more information.
 
-###Setup
+### Setup
 Install the dependencies
 ```
 npm install
