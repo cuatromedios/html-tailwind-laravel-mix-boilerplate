@@ -1,0 +1,36 @@
+@tailwind base;
+@layer base {
+  body {
+    @apply font-light;
+  }
+  strong {
+    @apply font-semibold;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold;
+  }
+  h1 {
+    @apply text-3xl;
+  }
+  h2 {
+    @apply text-2xl;
+  }
+  h3 {
+    @apply text-xl;
+  }
+  a, a:visited {
+    @apply text-primary;
+  }
+  a:hover, a:active {
+    @apply text-primary-dark
+  }
+  ul {
+    @apply list-disc list-outside pl-4;
+  }
+  ol {
+    @apply list-decimal list-outside pl-4;
+  }
+  p, ul, ol, h1, h2, h3 {
+    @apply mb-4;
+  }
+}
